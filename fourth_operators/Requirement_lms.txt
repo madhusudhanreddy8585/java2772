@@ -1,0 +1,21 @@
+Store the student information like:
+ ID
+ Name
+ Age
+ Scores for quiz, assignment, and exam
+ Attendance percentage
+
+Calculator:
+ Total Score
+ Average Score
+
+Determine:
+ if the student is passing based on Average Score(75 or above)
+
+Update:
+ Attendance (simulate an additional attended sesssion )
+
+Evaluate:
+if the student qualifies for an attendance award (requires high attendance(80 or above) and a passing grade)
+
+Based on the above display results appropriately
